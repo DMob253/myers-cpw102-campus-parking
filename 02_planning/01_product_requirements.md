@@ -2,9 +2,9 @@
 
 **Project:** Campus Parking Helper
 
-**Team members:**
+**Team members:** Damon Myers
 
-**Date:**
+**Date:** 30 September 2026 
 
 ## User and problem
 
@@ -21,8 +21,8 @@ Our program will help the user:
 Write three things the program must do. Make each one specific enough to test.
 
 1. The program must
-2. The program must
-3. The program must
+2. The program must 
+3. The program must 
 
 ## Not included
 
