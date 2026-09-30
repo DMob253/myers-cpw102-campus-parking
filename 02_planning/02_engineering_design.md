@@ -22,7 +22,8 @@ _What data and information will go into the program? What data types will the pr
 _What will the program do with the data? What calculations will it perform?_ 
 
 estimated cost = cost per hour * parked hours
-estimated cost = 2.00 * 2.5
+estimated cost = $2.00 * 2.5 hours parked
+
 
 ### Output
 _What will the program return or print to the user?_

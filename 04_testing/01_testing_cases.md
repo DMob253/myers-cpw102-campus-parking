@@ -3,7 +3,7 @@
 ## Test Case 1: Valid Input
 
 **Input / Action:**  
-Enter [a valid input]
+Enter [a valid input] 
 
 **Expected Result:**  
 The program calculates and displays the correct [output]
