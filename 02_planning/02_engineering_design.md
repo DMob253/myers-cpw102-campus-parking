@@ -32,21 +32,21 @@ _What will the program return or print to the user?_
 ### Functions
 _What function(s) could this program use to modularize the logic? What actions belong together?_
 
-accept input from driver
-calculate cost
-print result to user
+-Accept input from driver
+-Calculate cost
+-Print result to user
 
 ## Example interaction
 
 ```text
-User input:
+User input: 2.5 hours parked * $2.00 per hour
 
-Program output:
+Program output: $5.00
 ```
 
 ## Implementation plan
 
-1. 
-2. 
+1. Localized kiosk
+2. Phone application
 3. 
 
