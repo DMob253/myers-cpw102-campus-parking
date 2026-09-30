@@ -1,8 +1,8 @@
 # Engineering Design
 
 **Project:** Campus Parking Helper  
-**Team members:**  
-**Date:**
+**Team members:**  Damon Myers
+**Date:** 30 September 2026
 
 ## Problem Summary
 
