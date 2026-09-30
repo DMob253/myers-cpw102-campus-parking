@@ -33,4 +33,4 @@ What will this version **not** do?
 
 ## Success
 
-We will know the product works when: accurately estimates parking costs 
+We will know the product works when: it accurately estimates parking costs 
