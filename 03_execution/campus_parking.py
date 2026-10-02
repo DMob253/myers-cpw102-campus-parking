@@ -9,5 +9,5 @@ hours=(input("How long do you want to park? "))
 cost = float(hours) * 2.00
 
 #output of cost
-print
+print(cost)
 
