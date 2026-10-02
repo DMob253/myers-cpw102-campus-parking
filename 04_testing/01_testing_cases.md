@@ -3,17 +3,18 @@
 ## Test Case 1: Valid Input
 
 **Input / Action:**  
-Enter [a valid input]
+Enter [a valid input]  3.3
 
 **Expected Result:**  
 The program calculates and displays the correct [output]
+6.6
 
 **Actual Result:**  
 _To be completed during testing._
 
 **Result:**  
 Pass / Fail
-
+pass after I tweaked it a little bit
 ---
 
 ## Test Case 2: Boundary Input
