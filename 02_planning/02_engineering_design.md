@@ -28,7 +28,7 @@ estimated cost = $2.00 * 2.5 hours parked
 ### Output
 _What will the program return or print to the user?_
 
-**estimated cost** (float): the estimated cost per hour!
+**estimated cost** (float): the estimated cost per hour! ex. $5.00
 
 ### Functions
 _What function(s) could this program use to modularize the logic? What actions belong together?_
